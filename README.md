@@ -58,3 +58,14 @@ SELECT
 FROM CovidDeaths
 GROUP BY location, population
 ORDER BY percent_population_infected DESC;
+```
+## 🙏 Acknowledgements
+This project was inspired by Alex The Analyst's video *"Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4"*. Special thanks to him for his valuable content and guidance.
+
+🔗 [Watch the Video](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f)
+
+## 📬 Contact
+**Sümeyra Bayrak**  
+- [GitHub](https://github.com/SumeyraBayrak)  
+- [LinkedIn](https://linkedin.com/in/sumeyrabayrak)
+
