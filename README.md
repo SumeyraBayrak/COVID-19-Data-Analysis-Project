@@ -1,3 +1,4 @@
+![https://github.com/SumeyraBayrak/COVID-19-Data-Analysis-Project/tree/main/%C4%B0mages]
 # COVID-19 Data Analysis Project
 
 This project presents a complete data analytics pipeline for global COVID-19 data. Using **SQL Server** for data processing and **Tableau** for visualization, the workflow covers everything from raw data extraction to interactive dashboarding – providing actionable insights into infection rates, mortality, and vaccination trends worldwide.
