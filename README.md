@@ -67,5 +67,5 @@ This project was inspired by Alex The Analyst's video *"Data Analyst Portfolio P
 ## 📬 Contact
 **Sümeyra Bayrak**  
 - [GitHub](https://github.com/SumeyraBayrak)  
-- [LinkedIn](https://linkedin.com/in/sumeyrabayrak)
+- [LinkedIn](https://www.linkedin.com/in/sumeyra-bayrak-0b7720259/)
 
